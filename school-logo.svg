@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 450" role="img" aria-labelledby="title desc">
+  <title id="title">부산기계공업고등학교 교표</title>
+  <desc id="desc">주황색 원형 테두리에 부산기계공업고등학교와 Busan National Mechanical Technical High School 문구, 중앙에 기계와 Since 1967이 있는 교표</desc>
+  <defs>
+    <path id="top-arc" d="M 35 225 A 190 190 0 0 1 415 225" />
+    <path id="bottom-arc" d="M 35 225 A 190 190 0 0 0 415 225" />
+  </defs>
+  <circle cx="225" cy="225" r="222" fill="#fff" stroke="#e49a23" stroke-width="2" />
+  <circle cx="225" cy="225" r="212" fill="#e49a23" />
+  <circle cx="225" cy="225" r="174" fill="#fff" />
+  <text fill="#fff" font-family="Noto Sans KR, Arial, sans-serif" font-size="31" font-weight="700" letter-spacing="1.5">
+    <textPath href="#top-arc" startOffset="50%" text-anchor="middle">부산기계공업고등학교</textPath>
+  </text>
+  <text fill="#fff" font-family="Arial, sans-serif" font-size="21" font-weight="500" letter-spacing=".2">
+    <textPath href="#bottom-arc" startOffset="50%" text-anchor="middle">Busan National Mechanical Technical High School</textPath>
+  </text>
+  <circle cx="39" cy="225" r="5.5" fill="#fff" />
+  <circle cx="411" cy="225" r="5.5" fill="#fff" />
+  <g fill="#e49a23">
+    <path d="M106 265 118 214Q119 209 124 209H148L164 131Q165 124 172 125L207 131Q214 132 213 139L202 244Q201 250 195 250L177 248 171 269Z" />
+    <path d="M190 134 201 135Q207 136 206 142L197 245Q197 250 191 250L181 249Q176 248 177 243L186 139Q186 134 190 134Z" />
+    <path d="M217 133 228 134Q233 135 233 140L228 245Q228 250 222 250L212 249Q207 248 208 243L212 138Q212 133 217 133Z" />
+    <path d="M241 135 253 134Q258 134 258 140L262 244Q262 250 256 250L246 251Q241 251 241 245L236 141Q236 136 241 135Z" />
+    <path d="M252 134 298 124Q306 122 308 130L323 209H331Q336 209 337 215L344 265 282 270 276 249 261 250Q255 251 254 245L246 142Q245 136 252 134Z" />
+  </g>
+  <text x="225" y="326" text-anchor="middle" fill="#e49a23" font-family="Arial, sans-serif" font-size="29" font-weight="500" letter-spacing="2.4">SINCE 1967</text>
+</svg>
